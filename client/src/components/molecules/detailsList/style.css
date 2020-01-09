@@ -1,0 +1,28 @@
+.input-container {
+  display: inline-block;
+}
+
+.input-container > label,
+.input-container > input[type='text'] {
+  width: 100%;
+}
+
+.input-container > input[type='text'] {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+.outer-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.outer-list > li {
+    width:  20%;
+}

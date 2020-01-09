@@ -1,0 +1,9 @@
+.editBtn{
+    cursor: pointer;
+}
+
+.shipment-results-wrapper{
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
