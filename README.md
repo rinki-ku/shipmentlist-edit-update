@@ -1,6 +1,6 @@
-# FreightHub Frontend Coding Challenge
+#Frontend Coding Challenge
 
-Welcome to the FreightHub frontend coding challenge! Please read the following instructions carefully.
+Welcome to the frontend coding challenge! Please read the following instructions carefully.
 
 **Your goal is to set up an application which enables the user to view and manage shipments.**
 
@@ -42,19 +42,7 @@ Check [json-server](https://github.com/typicode/json-server) for more informatio
 
 **Please make sure that there are scripts to start both the server and the client.**
 
-## Deliverables
 
-- Clone this repository.
-- Complete your project as described above within your local repository.
-- Ensure everything you want to commit is committed.
-- Create a git bundle: `git bundle create your_name.bundle --all`
-- Email the bundle file to your point of contact.
 
-**In order to be fair to all candidates, please refrain from sharing your solution on public repository hosting services such as GitHub and Bitbucket.**
 
-## Time limit
 
-There is no hard time limit for this coding challenge. However, we believe that 3-4 hours is sufficient for the must-have parts of the application. While we appreciate all the effort put into the challenge, we also do not want to take up too much of your time. Our advice is to focus on making sure that the application works properly and has some tests before moving on to secondary objectives. Happy coding!
-
-Good luck,
-The FreightHub Team
