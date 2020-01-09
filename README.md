@@ -1,8 +1,4 @@
-#Frontend Coding Challenge
-
-Welcome to the frontend coding challenge! Please read the following instructions carefully.
-
-**Your goal is to set up an application which enables the user to view and manage shipments.**
+**To set up an application which enables the user to view and manage shipments.**
 
 ## Business need
 
@@ -40,7 +36,7 @@ yarn start or npm start
 
 Check [json-server](https://github.com/typicode/json-server) for more information.
 
-**Please make sure that there are scripts to start both the server and the client.**
+**Make sure that there are scripts to start both the server and the client.**
 
 
 
